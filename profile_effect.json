@@ -1,0 +1,164 @@
+[
+  {
+        id: "1481391006199971951",
+        label: "Spider-Man",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/885f9ebd287a741db41d2073b835bf10a4fecabbfff2ec77371e582c7f9e5c5a",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/ba0e0454f6c23edf081067357f72a1cf3629e4d59ffe14e1f33de40b96371d49",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/61b082df52c159625dbc65c6a26c24a27867431854e383788ce8c4f89c4fac14",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/05d9543720cb0294728155de219d9bb440d72331e88de3dbc1dced6bd270e6fb", loop: false, duration: 3626, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/3d65e7f6c15aab66f854209ebb66b2a9f25d48f481abd6b450fe99a1e955683f", loop: true, duration: 1000, start: 3626, loopDelay: 0, zIndex: 101, randomizedSources: [] }
+        ]
+    },
+    {
+        id: "1513676556483166358",
+        label: "Falling With Style",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7559e4621d9e402ac6ce7ec09b12fcb7a0b8a0145b4d289edb160dc2c5490beb",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/8581e764727384a811a8793be7201dbe3e0c42386ee430f35a8423d00231fa4f", loop: false, duration: 5000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837", loop: true, duration: 5000, start: 8000, loopDelay: 5000, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1513679189214101584",
+        label: "Falling With Style (Clouds Only)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9ab4b160c7651e094c7b3ee1532e4f00df99e98fd1746b920f8b26073de595e3",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9ab4b160c7651e094c7b3ee1532e4f00df99e98fd1746b920f8b26073de595e3",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/451f124522dc6639a1d54974a7633bc1463f0944f7ea2e62942b9661814c0630",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/f10ee2921215c8eb624b49839f82fe75fe13062b86376944d86ba3ddec3342ef", loop: false, duration: 5000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/be07a283773ae41e02cf0f3cae633b36a30f0ce8a155ef08d03875c12935e837", loop: true, duration: 5000, start: 8000, loopDelay: 5000, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1513672813473435668",
+        label: "Peek a Boo",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/16388adc433ce477bfaa68a7f5aaf593f8d0335c91b9b246d0559d6839d8086a",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/16388adc433ce477bfaa68a7f5aaf593f8d0335c91b9b246d0559d6839d8086a",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/ab6c60108d07adadfb48d23e6c7026de15c73b21ede87dc101f27e56f6b1dc74",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/d69b688b886389318d55fa64bdf4b4e9b11b6467f4bb0f4ca6e3936f310db54e", loop: false, duration: 4417, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/cf676f2600591a8f5153a84697739b68757889fa70c0be232cb545b9bf6fb3dd", loop: true, duration: 5000, start: 4450, loopDelay: 10000, zIndex: 101, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/8c6312455749b403fc75e4809a31af5c3ce2ea351be57758872f7e466e77f4a2", loop: true, duration: 4999, start: 10000, loopDelay: 10000, zIndex: 102, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/e96559eafd44080bd61185d722e57f74ef65e6aea911a6cebcfa415b3d6463d9", loop: true, duration: 5000, start: 12000, loopDelay: 10000, zIndex: 103, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1466978489608441993",
+        label: "Neon Glow",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/ff3611f297eccfc64a0dfd237e5735a8f934902f394b3102f46ec7898baf14a1",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/ff3611f297eccfc64a0dfd237e5735a8f934902f394b3102f46ec7898baf14a1",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/0a76ae3d973ae2c69e8834206c3961cebe067690b25fef09c947ed5323d6d0e8",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/8988f03d57f6fa8ef8e3230c425cff1fa2896b34b007d92cc7db4fafea93d2fd", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/56725315f7671bf0f5a2ecbd34a61fd5f60510252d44e43fca70f51c3fd8acd0", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441991",
+        label: "Neon Glow (Aquamarine)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6322af449aa75d79e0a950ae46650e53c7a5d2c59be34149b85649edd900f2db",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6322af449aa75d79e0a950ae46650e53c7a5d2c59be34149b85649edd900f2db",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/c803489aac8b4399efe7704da6db5ed726db4bf2900c39ee0b4f34e297198bd0",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/15ddefd8c7f3abfa6f44c55c80f6e2fcba81eef88f1d1bfba6527c9283f9b7eb", loop: false, duration: 1992, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/25cf2a227a03a13d71f583ff355eb8d3e032271266c8fe0d56d04222dfaa6e93", loop: true, duration: 4980, start: 1992, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441990",
+        label: "Neon Glow (Amethyst)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/4469e03b9ca752e893b539adb85798752ad592dab453d42092470778d301366c",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/4469e03b9ca752e893b539adb85798752ad592dab453d42092470778d301366c",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6949e6792d7d824b9614ab5bd60259f96a1f720a2fd28a610f9e7a9cf9fc50f3",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/15cff1239d403c5482da26db02b4cb10fc16e97d144bc268dd3437d99901bb8e", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/1b8bd7ae3520d0987edba8503bd3ea4958495b8fa62fb94738e2cdf5512d3e5c", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441994",
+        label: "Neon Glow (Peridot)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7c9ff84759ffd9119aa3572ada281c8966abc760fb30370fb21b3c8326018d63",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/7c9ff84759ffd9119aa3572ada281c8966abc760fb30370fb21b3c8326018d63",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/8eab87d7aecb284f4b93acb919e0f227a07b7b7545693080d523db74fe1a684e",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/fb0fc86f626cc47c83a3444f156b11843ab2e7425e1f70d67d36ab1cfe1d5f66", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/33c86f9b08ee0ea758e2614ceec65a586fd6abdfe7b39f8c756c9d3649929b21", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441995",
+        label: "Neon Glow (Ruby)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/1975c592820de948e903c52d20c240daea36cc1a4518c6960b1379c3cf210e46",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/1975c592820de948e903c52d20c240daea36cc1a4518c6960b1379c3cf210e46",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/8f2808e39c740faeee51e533ec7bfb2a69282b3cde714bb5234c51dcd05249a2",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/0a034e447378eebf752642ebadf5fb5794973682f6592eeaf7a81f399f42152a", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/db5f4be043bdc474c10087764ad747985b0e2082c7d8f3a08d04be56d3ff3d75", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441992",
+        label: "Neon Glow (Emerald)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9f583302ac845847cc100f6cd6821d503d8bf150621246be0e4311dc751b3f3c",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/9f583302ac845847cc100f6cd6821d503d8bf150621246be0e4311dc751b3f3c",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/0455bac45e2785776599d8d4ed5133bb805d4290eba70bd3f751288949a2599d",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/45862bd9ee644878f06925280e9d00abe58be1bf07b5a418d7cc6d8f6ed70898", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/2188f9e508d6881e4950ead0a1e283bd4c419b41234d40619fca3c704d547173", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+
+    {
+        id: "1466978489608441996",
+        label: "Neon Glow (Sapphire)",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6bdea0628eee7a0a20818187c19b8b603114c3f424b1116141d96d6dfd0dfb15",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6bdea0628eee7a0a20818187c19b8b603114c3f424b1116141d96d6dfd0dfb15",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/0064e0097fb5fb937deec80cf76a845d23e6b1baa09f6f7ae74d031eb493ca9b",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/ba2bde24e6aa13ade7f1d235ecff9d3146d69cb76236af140efc2c187c98932d", loop: false, duration: 2000, start: 0, loopDelay: 0, zIndex: 100, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/0f1b0b33ab8b373f6acb3f457f5b7c3f69af936ae8d7d65ac9ecd25331ad596f", loop: true, duration: 5000, start: 2000, loopDelay: 0, zIndex: 101, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1516561413848694894",
+        label: "Always Watching",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/44073352736ba9910fe5dfb0ca31125d985b281efd72cf19ba1bd9ed073e0df9",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/44073352736ba9910fe5dfb0ca31125d985b281efd72cf19ba1bd9ed073e0df9",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/1ac2c56c5a56365747a5e2e3af40b7c218fcff24f440c5b955fc728eef347c10",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/4394a572d2d2b1eddbc253c6c77e3725ea55a379ace4a998267afe37b2fe352b", loop: false, duration: 4980, start: 0, loopDelay: 0, zIndex: 110, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/41bdd75fdbffcb851d65825cd0f6a13d2876d29c145b888074c0af55b7dfba9c", loop: true, duration: 4907, start: 7907, loopDelay: 3000, zIndex: 100, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1516560602187825362",
+        label: "Let's Play",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/120627a78de773d458668ba9dc5db233e94df7f70f321e3e2f752b63e4797a3a",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/120627a78de773d458668ba9dc5db233e94df7f70f321e3e2f752b63e4797a3a",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/6ed5df054c6dd16df5f7f5fc5a9f746599cf4ba730ba65fd3af75dfe6db77bcd",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/84168a5adc7db3805121683b85f398b21ebfd9e0396bc9a2bbf70591acb482fb", loop: false, duration: 4904, start: 0, loopDelay: 0, zIndex: 110, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/be67d92063f863236b59b19e84ab4a82c43d9cf99b1640636c69cfecad3dbcb2", loop: true, duration: 4906, start: 7906, loopDelay: 3000, zIndex: 100, randomizedSources: [] },
+        ]
+    },
+    {
+        id: "1516560866609467452",
+        label: "Trapped Souls",
+        staticFrameSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/e2813c660991d5673001a44e5ab7756439dc269531da642f4cf9aa9482e8b2b9",
+        thumbnailPreviewSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/e2813c660991d5673001a44e5ab7756439dc269531da642f4cf9aa9482e8b2b9",
+        reducedMotionSrc: "https://cdn.discordapp.com/media/v1/collectibles-shop/ed488d8c0950dde3be8facd759b0ea3d23af991d0d1dc72e5dd918eec98dd7c5",
+        effects: [
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/3b74ba84c8941ad0d91afafd00d169b8124cd2956fcaa7fda3b784a6edafcba6", loop: false, duration: 4900, start: 0, loopDelay: 0, zIndex: 110, randomizedSources: [] },
+            { src: "https://cdn.discordapp.com/media/v1/collectibles-shop/ab4385a5a8e984e11ddd60bf8d5378f9ddc0f706bf6c1a0b5ba2a4df666c01fd", loop: true, duration: 4908, start: 7908, loopDelay: 3000, zIndex: 100, randomizedSources: [] },
+        ]
+    },
+]
